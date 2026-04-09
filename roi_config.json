@@ -1,0 +1,28 @@
+{
+    "mode": "SIDE_LINE",
+    "process_side": "RIGHT",
+    "divider_line": {
+        "start": [
+            0,
+            1582
+        ],
+        "end": [
+            2220,
+            328
+        ]
+    },
+    "detection_line": {
+        "start": [
+            2862,
+            1356
+        ],
+        "end": [
+            416,
+            1332
+        ]
+    },
+    "notes": {
+        "description": "Vehicles on the right side of the divider line are processed. Left side is ignored. Detection line is used for counting.",
+        "created_by": "mehsana_side_line_configurator.py"
+    }
+}
